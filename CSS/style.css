@@ -2,16 +2,16 @@ body {
   background-color: #f8f8f8;
 }
 h1 {
-  font-family: Futura, "Trebuchet MS", Arial, sans-serif
+  font-family: "Futura";
   font-size: 24px;
   font-style: normal;
   font-variant: normal;
-  font-weight: 400;
+  font-weight: 600;
   color: #4ecca3;
 }
 
 h3 {
-  font-family: futura;
+  font-family: "futura" sans-serif;
   font-size: 14px;
   font-style: normal;
   font-variant: normal;
@@ -29,7 +29,7 @@ hr {
 }
 
 ul,ol,dl,p {
-  font-family: futura;
+  font-family: "futura" sans-serif;
   font-size: 14px;
   font-style: normal;
   font-variant: normal;
@@ -38,7 +38,7 @@ ul,ol,dl,p {
 }
 
 table {
-  font-family: futura;
+  font-family: "futura" sans-serif;
   font-size: 14px;
   font-style: normal;
   font-variant: normal;
@@ -47,7 +47,7 @@ table {
 }
 
 p {
-  font-family: futura;
+  font-family: "futura" sans-serif;
   font-size: 14px;
   font-style: normal;
   font-variant: normal;

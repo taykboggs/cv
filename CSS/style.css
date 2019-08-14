@@ -2,7 +2,7 @@ body {
   background-color: #f8f8f8;
 }
 h1 {
-  font-family: "Futura";
+  font-family: 'Futura', Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-variant: normal;
@@ -11,7 +11,7 @@ h1 {
 }
 
 h3 {
-  font-family: "futura" sans-serif;
+  font-family: font-family: 'Futura', Arial, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-variant: normal;
@@ -29,7 +29,7 @@ hr {
 }
 
 ul,ol,dl,p {
-  font-family: "futura" sans-serif;
+  font-family: font-family: 'Futura', Arial, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-variant: normal;
@@ -38,7 +38,7 @@ ul,ol,dl,p {
 }
 
 table {
-  font-family: "futura" sans-serif;
+  font-family: font-family: 'Futura', Arial, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-variant: normal;
@@ -47,7 +47,7 @@ table {
 }
 
 p {
-  font-family: "futura" sans-serif;
+  font-family: font-family: 'Futura', Arial, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-variant: normal;
